@@ -1,2 +1,2 @@
 # wechat-guard
-http://www.miwifi.com
+http://192.168.31.1
